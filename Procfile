@@ -1,1 +1,1 @@
-web: bin/hubot --adapter hipchat
+web: bundle exec lita
